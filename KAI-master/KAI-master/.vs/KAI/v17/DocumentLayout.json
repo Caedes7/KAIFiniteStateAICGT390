@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|c:\\users\\caede\\documents\\unreal projects\\prototype_boss\\kaifinitestateaicgt390\\kai-master\\kai-master\\fsa\\impl\\fsaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\impl\\fsaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|c:\\users\\caede\\documents\\unreal projects\\prototype_boss\\kaifinitestateaicgt390\\kai-master\\kai-master\\miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|c:\\users\\caede\\documents\\unreal projects\\prototype_boss\\kaifinitestateaicgt390\\kai-master\\kai-master\\miner49er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|c:\\users\\caede\\documents\\unreal projects\\prototype_boss\\kaifinitestateaicgt390\\kai-master\\kai-master\\miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\Miner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\Miner.cs",
+              "ToolTip": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\Miner.cs",
+              "RelativeToolTip": "Miner49er\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:40:26.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\Program.cs",
+              "RelativeDocumentMoniker": "Miner49er\\Program.cs",
+              "ToolTip": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\Program.cs",
+              "RelativeToolTip": "Miner49er\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:40:32.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleMiner.cs",
+              "DocumentMoniker": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\SimpleMiner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\SimpleMiner.cs",
+              "ToolTip": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\Miner49er\\SimpleMiner.cs",
+              "RelativeToolTip": "Miner49er\\SimpleMiner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:40:32.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FSAImpl.cs",
+              "DocumentMoniker": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\FSA\\impl\\FSAImpl.cs",
+              "RelativeDocumentMoniker": "FSA\\impl\\FSAImpl.cs",
+              "ToolTip": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\FSA\\impl\\FSAImpl.cs",
+              "RelativeToolTip": "FSA\\impl\\FSAImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:41:01.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
