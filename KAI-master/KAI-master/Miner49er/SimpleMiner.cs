@@ -50,6 +50,10 @@ namespace Miner49er
                 new ConditionDelegate[] { },
                 new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, miningState);
 
+            drinkingState.addTransition("tick",
+                new ConditionDelegate[] { new ConditionDelegate(this.pocketsFull) },
+                new ActionDelegate[] { new ActionDelegate(this.depositGold) }, bankingState);
+
             // set banking transitions
             bankingState.addTransition("tick",
                 new ConditionDelegate[] { new ConditionDelegate(this.pocketsNotEmpty) },
