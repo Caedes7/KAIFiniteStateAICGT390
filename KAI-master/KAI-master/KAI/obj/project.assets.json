@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\KAI\\KAI.csproj",
+      "projectUniqueName": "C:\\Users\\caede\\Desktop\\KAI-master\\KAI-master\\KAI\\KAI.csproj",
       "projectName": "KAI",
-      "projectPath": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\KAI\\KAI.csproj",
+      "projectPath": "C:\\Users\\caede\\Desktop\\KAI-master\\KAI-master\\KAI\\KAI.csproj",
       "packagesPath": "C:\\Users\\caede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caede\\Documents\\Unreal Projects\\Prototype_Boss\\KAIFiniteStateAICGT390\\KAI-master\\KAI-master\\KAI\\obj\\",
+      "outputPath": "C:\\Users\\caede\\Desktop\\KAI-master\\KAI-master\\KAI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

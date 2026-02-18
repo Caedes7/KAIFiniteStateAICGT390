@@ -10,15 +10,3 @@ C:\Users\caede\Desktop\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.dll
 C:\Users\caede\Desktop\KAI-master\KAI-master\KAI\obj\Debug\net9.0\refint\KAI.dll
 C:\Users\caede\Desktop\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.pdb
 C:\Users\caede\Desktop\KAI-master\KAI-master\KAI\obj\Debug\net9.0\ref\KAI.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\bin\Debug\net9.0\KAI.deps.json
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\bin\Debug\net9.0\KAI.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\bin\Debug\net9.0\KAI.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.AssemblyInfoInputs.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.AssemblyInfo.cs
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.csproj.CoreCompileInputs.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.sourcelink.json
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\refint\KAI.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\KAI.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\KAI\obj\Debug\net9.0\ref\KAI.dll

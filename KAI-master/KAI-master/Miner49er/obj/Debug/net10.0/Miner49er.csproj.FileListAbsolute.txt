@@ -19,24 +19,3 @@ C:\Users\caede\Desktop\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\refint\
 C:\Users\caede\Desktop\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.pdb
 C:\Users\caede\Desktop\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.genruntimeconfig.cache
 C:\Users\caede\Desktop\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\ref\Miner49er.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\Miner49er.exe
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\Miner49er.deps.json
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\Miner49er.runtimeconfig.json
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\Miner49er.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\Miner49er.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\FSA.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\KAI.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\FSA.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\bin\Debug\net10.0\KAI.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.csproj.AssemblyReference.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.AssemblyInfoInputs.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.AssemblyInfo.cs
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.csproj.CoreCompileInputs.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.sourcelink.json
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.csproj.Up2Date
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\refint\Miner49er.dll
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.pdb
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\Miner49er.genruntimeconfig.cache
-C:\Users\caede\Documents\Unreal Projects\Prototype_Boss\KAIFiniteStateAICGT390\KAI-master\KAI-master\Miner49er\obj\Debug\net10.0\ref\Miner49er.dll
