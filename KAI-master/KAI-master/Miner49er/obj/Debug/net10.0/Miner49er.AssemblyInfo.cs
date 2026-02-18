@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miner49er")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154d70a52f3fc14483cb93d792e307be8fc4e6bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92089bd962507e1b6717a6630707bd52a3e8f851")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miner49er")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miner49er")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

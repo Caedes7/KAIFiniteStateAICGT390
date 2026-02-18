@@ -36,6 +36,10 @@ namespace Miner49er
             miningState.addTransition("tick",
                 new ConditionDelegate[] { new ConditionDelegate(this.pocketsFull) },
                 new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, bankingState);
+
+            miningState.addTransition("tick",
+                new ConditionDelegate[] { new ConditionDelegate(this.richThirst) }, 
+                new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, drinkingState);
             
             miningState.addTransition("tick",
                 new ConditionDelegate[] { }, 
@@ -51,8 +55,8 @@ namespace Miner49er
                 new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, miningState);
 
             drinkingState.addTransition("tick",
-                new ConditionDelegate[] { new ConditionDelegate(this.pocketsFull) },
-                new ActionDelegate[] { new ActionDelegate(this.depositGold) }, bankingState);
+                new ConditionDelegate[] { new ConditionDelegate(this.pocketsNotEmpty) },
+                new ActionDelegate[] { new ActionDelegate(this.incrementThirst) }, bankingState);
 
             // set banking transitions
             bankingState.addTransition("tick",
@@ -79,6 +83,15 @@ namespace Miner49er
             if (thirst >= 15)
             {
                 Console.WriteLine("Too thirsty too work.");
+            }
+            return thirst >= 15;
+        }
+
+        private Boolean richThirst(FSA fsa)
+        {
+            if (thirst >= 14 && gold > 0)
+            {
+                Console.WriteLine("Too thirsty to bank or dig.");
             }
             return thirst >= 15;
         }
@@ -128,7 +141,10 @@ namespace Miner49er
 
         private Boolean pocketsNotEmpty(FSA fsa) => gold > 0;
 
-        private Boolean thirsty(FSA fsa) => thirst > 0;
+        private Boolean thirsty(FSA fsa)
+        {
+            return thirst > 0 && thirst != gold;
+        }
 
         public void printStatus()
         {
